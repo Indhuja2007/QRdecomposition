@@ -49,7 +49,8 @@ QR_Decomposition(a)
 
 ## Output
 
-<img width="1272" height="853" alt="Screenshot 2026-03-26 223928" src="https://github.com/user-attachments/assets/00acb9da-d35c-4286-ada0-93e6c1fcc132" />
+<img width="1295" height="541" alt="image" src="https://github.com/user-attachments/assets/76eeeb1b-24f9-4c20-b984-ef5d6b28b62c" />
+
 
 
 ## Result
